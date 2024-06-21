@@ -27,7 +27,7 @@ Xiaolong Xu, <b>Hao Tian</b>, Xuyun Zhang, Lianyong Qi, Qiang He, Wanchun Dou <b
 
 [DIMA: Distributed Cooperative Microservice Caching for Internet of Things in Edge Computing by Deep Reinforcement Learning](https://link.springer.com/article/10.1007/s11280-021-00939-7) <br> 
 <b>Hao Tian</b>, Xiaolong Xu, Tingyu Lin, Yong Cheng, Cheng Qian, Lei Ren, Muhammad Bilal <br> 
- *World Wide Web Journal*, 2022.
+ *World Wide Web Journal*, 2022
 </div>
 </div>
 
