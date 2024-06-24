@@ -23,10 +23,10 @@ redirect_from:
 <!-- <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=XbjQrc5aoquCRCPZtmzBPmq7AViRLSFFjRfOnozEBf0&co=2d78ad&ct=ffffff&cmo=3acc3a&cmn=ff5353'></script> -->
 
 <script type='text/javascript' id='clustrmaps'>
-document.getElementById("clustrmaps").addEventListener("click", function(event){
-  event.preventDefault()
-});
 src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=XbjQrc5aoquCRCPZtmzBPmq7AViRLSFFjRfOnozEBf0&co=2d78ad&ct=ffffff&cmo=3acc3a&cmn=ff5353'
+document.getElementById("clustrmaps").onclick = function(event){
+  event.preventDefault();
+}
 </script>
 
 <br />
