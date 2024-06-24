@@ -25,8 +25,8 @@ redirect_from:
 <style>
   .map-container {
     position: relative;
-    width: 300px;
-    height: 300px;
+    width: 100%;
+    height: 170px;
   }
 
   .map-overlay {
