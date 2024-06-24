@@ -22,30 +22,36 @@ redirect_from:
 
 <!-- <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=XbjQrc5aoquCRCPZtmzBPmq7AViRLSFFjRfOnozEBf0&co=2d78ad&ct=ffffff&cmo=3acc3a&cmn=ff5353'></script> -->
 
-<script type='text/javascript'>
-document.addEventListener("DOMContentLoaded", function() {
-  var script = document.createElement('script');
-  script.type = 'text/javascript';
-  script.src = '//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=XbjQrc5aoquCRCPZtmzBPmq7AViRLSFFjRfOnozEBf0&co=2d78ad&ct=ffffff&cmo=3acc3a&cmn=ff5353';
-  script.id = 'clustrmaps';
-  document.body.appendChild(script);
+<style>
+  .map-container {
+    position: relative;
+    width: 300px;
+    height: 300px;
+  }
 
-  // 监听 document 的点击事件
-  document.addEventListener('click', function(event) {
-    var target = event.target;
+  .map-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: transparent;
+    z-index: 10; 
+  }
+</style>
 
-    // 检查点击事件是否来自于地图插件或其内部元素
-    while (target) {
-      if (target.id === 'clustrmaps' || target.closest('#clustrmaps')) {
-        // 阻止默认行为和事件冒泡
-        event.preventDefault();
-        event.stopPropagation();
-        return;
-      }
-      target = target.parentElement;
-    }
-  }, true); // 使用捕获模式以确保事件在到达目标之前被捕获
-});
-</script>
+<div class="map-container">
+  <div class="map-overlay"></div>
+  <script type='text/javascript'>
+    document.addEventListener("DOMContentLoaded", function() {
+      var script = document.createElement('script');
+      script.type = 'text/javascript';
+      script.src = '//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=XbjQrc5aoquCRCPZtmzBPmq7AViRLSFFjRfOnozEBf0&co=2d78ad&ct=ffffff&cmo=3acc3a&cmn=ff5353';
+      script.id = 'clustrmaps';
+      document.querySelector('.map-container').appendChild(script);
+    });
+  </script>
+</div>
+
 
 <br />
