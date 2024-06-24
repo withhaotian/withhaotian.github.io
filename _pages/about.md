@@ -20,6 +20,8 @@ redirect_from:
 
 <br />
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=XbjQrc5aoquCRCPZtmzBPmq7AViRLSFFjRfOnozEBf0&co=2d78ad&ct=ffffff&cmo=3acc3a&cmn=ff5353'></script>
+<!-- <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=XbjQrc5aoquCRCPZtmzBPmq7AViRLSFFjRfOnozEBf0&co=2d78ad&ct=ffffff&cmo=3acc3a&cmn=ff5353'></script> -->
+
+<a href='https://clustrmaps.com/site/1bwvt'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=300&t=tt&d=XbjQrc5aoquCRCPZtmzBPmq7AViRLSFFjRfOnozEBf0&co=2d78ad&ct=ffffff'/></a>
 
 <br />
