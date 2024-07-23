@@ -33,6 +33,6 @@ Xiaolong Xu, <b>Hao Tian</b>, Xuyun Zhang, Lianyong Qi, Qiang He, Wanchun Dou <b
 
 <div class="paper-justified-text"><div class="pubtitle">IEEE ICPADS 2023</div> &nbsp;Xutong Jiang, Guoming Zhang, <b>Hao Tian</b>, Haolong Xiang, Xuyun Zhang, and Wanchun Dou. <a href="https://ieeexplore.ieee.org/abstract/document/10476078">A Blockchain-enabled Secure Access Management Method in Edge Computing</a>. <i>2023 IEEE 29th International Conference on Parallel and Distributed Systems (ICPADS)</i>, 2023.
 </div>
-
+<!-- 
 <div class="paper-justified-text"><div class="pubtitle">IEEE TIV 2023</div> &nbsp;Ke Meng, Zhongjian Liu, Xiaolong Xu, Xiaoyu Xia, <b>Hao Tian</b>, Lianyong Qi, and Xiaokang Zhou. <a href="https://ieeexplore.ieee.org/abstract/document/10286850">Heterogeneous Edge Service Deployment for Cyber Physical Social Intelligence in Internet of Vehicles</a>. <i>IEEE Transactions on Intelligent Vehicles (TIV)</i>, 2023.
-</div>
+</div> -->
