@@ -1,5 +1,14 @@
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div align="center"><div class="badge">ACM TOSN 2024</div><img src='images/tosn24.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Cost-Efficient Deep Neural Network Placement in Edge Intelligence-Enabled Internet of Things](https://doi.org/10.1145/3685930) <br>
+<b>Hao Tian</b>, Xiaolong Xu, Hongyue Wu, Qingzhan Zhao, Jianguo Dai, Maqbool Khan <br>
+*ACM Transactions on Sensor Networks (TOSN)*, 2024 <br>
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div align="center"><div class="badge">IEEE TSC 2022</div><img src='images/tsc22.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
