@@ -45,10 +45,10 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : #"https://orcid.org/0000-0002-5335-5898"
+  orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : 
@@ -57,7 +57,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  bilibili         : #"https://space.bilibili.com/23073763"
+  bilibili         : 
 
 
 # Reading Files
