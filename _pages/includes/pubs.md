@@ -26,7 +26,7 @@ SFSM: A Serverless Function Scheduling Method for FaaS Applications over Edge Co
 <div class='paper-box'><div class='paper-box-image'><div align="center"><div class="badge">IEEE TSC 2022</div><img src='images/tsc22.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Xiaolong Xu*, <b>Hao Tian</b>*, Xuyun Zhang, Lianyong Qi, Qiang He, Wanchun Dou <i>(*Co-Primary)</i> <br>
+Xiaolong Xu*, <b>Hao Tian*</b>, Xuyun Zhang, Lianyong Qi, Qiang He, Wanchun Dou <i>(*Co-Primary)</i> <br>
 [DisCOV: Distributed COVID-19 Detection on X-Ray Images with Edge-Cloud Collaboration](https://ieeexplore.ieee.org/abstract/document/9681206) <br>
 *IEEE Transactions on Services Computing (TSC)*, 2022 <br>
 [[Slides]](files/IEEE SERVICE 2022-slides.pdf)
