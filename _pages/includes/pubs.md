@@ -1,5 +1,14 @@
 # 📝 Publications 
 
+<!-- ADMA -->
+<div class='paper-box'><div class='paper-box-image'><div align="center"><div class="badge">ADMA 2024</div><img src='images/adma24.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<b>Hao Tian</b>, Haolong Xiang, Tingtong Zhu, Siyuan Wu, Cheng Chen, Zheng Li, Mingxu Jiang, Wanchun Dou <br>
+An Inference Acceleration Approach for Boosting DNN Cold Start in Cloud-Edge Computing <br>
+*The 20th International Conference on Advanced Data Mining and Applications (ADMA)*, 2024 <br>
+</div>
+</div>
 
 <!-- ICWS -->
 <div class='paper-box'><div class='paper-box-image'><div align="center"><div class="badge">IEEE ICWS 2024</div><img src='images/icws24.png' alt="sym" width="100%"></div></div>
