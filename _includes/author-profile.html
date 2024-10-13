@@ -5,7 +5,10 @@
 <div itemscope itemtype="http://schema.org/Person" class="profile_box">
 
   <div class="author__avatar">
-    <img src="{{ author.avatar }}" class="author__avatar" alt="{{ author.name }}">
+    <!-- <img src="{{ author.avatar }}" class="author__avatar" alt="{{ author.name }}"> -->
+    <a href="https://withhaotian.github.io/" onclick="window.location='https://withhaotian.github.io/'; return false;" oncontextmenu="return false;">
+      <img src="{{ author.avatar }}" alt="{{ author.name }}" class="author__avatar" />
+    </a>
   </div>
 
   <div class="author__content">
