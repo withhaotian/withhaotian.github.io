@@ -1,5 +1,5 @@
 # 🎖 Honors and Awards
-- Nanjing University Doctoral Overseas Short-Term Visiting Scholarship, Nanjing University, *2024*
+- Overseas Short-Term Visiting Scholarship for Doctoral Students, Nanjing University, *2024*
 - Outstanding Master's Thesis Award, Nanjing University of Information Science and Technology, *2024*
 - First Prize, Graduate Innovation Achievement Exhibition, *2023*
 - National Scholarship, Ministry of Education, *2022*
