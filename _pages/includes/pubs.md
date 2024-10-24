@@ -15,8 +15,8 @@ An Inference Acceleration Approach for Boosting DNN Cold Start in Cloud-Edge Com
 <div class='paper-box-text' markdown="1">
 
 <b>Hao Tian</b>, Cheng Chen, Fei Dai, Wanchun Dou <br>
-*2024 IEEE International Conference on Web Services (ICWS)*, 2024 <br>
 [SFSM: A Serverless Function Scheduling Method for FaaS Applications over Edge Computing](https://doi.org/10.1109/ICWS62655.2024.00120) <br>
+*2024 IEEE International Conference on Web Services (ICWS)*, 2024 <br>
 [[Slides]](files/ICWS-Slides-SFSM.pdf)
 </div>
 </div>
