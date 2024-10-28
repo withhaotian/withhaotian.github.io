@@ -4,5 +4,5 @@ Currently, I am a second-year Ph.D. candidate of [Department of Computer Science
 - Distributed Edge Inference: Involving the exploration of algorithms/systems tailored for edge computing. My work includes the deployment, configuration, and acceleration of AI models on edge devices and servers. The objective is to enhance the performance of inference tasks within cloud-edge computing environments, meeting real-time processing demands.
 - Serverless Edge Computing: Optimizing the workload scheduling and resource utilization for Function as a Service (FaaS) applications, especially for AI/ML workloads, in cloud-edge computing systems. It is moreover, developing cost-efficient and scalable serverless edge computing frameworks/systems on heterogeneous edge devices.
 
-If you are interested in my project details, feel free to email me at withhaotian [at] gmail [dot] com.
+If you are interested in my project details, feel free to email me at withhaotian@gmail.com.
 </div>
