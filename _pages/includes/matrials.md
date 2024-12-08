@@ -8,3 +8,4 @@ There are some insightful/interesting materials for you to read:
 - [Doing The PhD](https://github.com/shengyp/doing_the_PhD.git) (In Chinese)
 - [英文写作随感](http://datamining.rutgers.edu/publication/xiong-hui-paper-writing.pdf) *by Hui Xiong @ Rutgers University* (In Chinese)
 - [The Most Common Habits from more than 200 English Papers written by Graduate Chinese Engineering Students](http://staff.ustc.edu.cn/~jpq/writing/The%20Most%20Common%20Habits.pdf) *by Felicia Brittman* (In English)
+- [How to Read a Paper](https://www.cs.cmu.edu/~zhihaoj2/papers/HowtoReadPaper.pdf) *by S. Keshav @ UWaterloo* (In English)
