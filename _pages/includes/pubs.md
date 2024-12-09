@@ -1,4 +1,5 @@
-# 📝 Publications 
+# 📝 Selected Publications 
+A full list of publications at [Google Scholar](https://scholar.google.com/citations?user=PYFMSbYAAAAJ).
 
 <!-- ADMA -->
 <div class='paper-box'><div class='paper-box-image'><div align="center"><div class="badge">ADMA 2024</div><img src='images/adma24.png' alt="sym" width="100%"></div></div>
@@ -7,6 +8,7 @@
 <b>Hao Tian</b>, Haolong Xiang, Tingtong Zhu, Siyuan Wu, Cheng Chen, Zheng Li, Mingxu Jiang, Wanchun Dou <br>
 <span style="color:#2c4a88; text-decoration: underline;">An Inference Acceleration Approach for Boosting DNN Cold Start in Cloud-Edge Computing</span><br>
 *The 20th International Conference on Advanced Data Mining and Applications (ADMA)*, 2024 <br>
+[[Slides]](files/ADMA24-Slides.pdf)
 </div>
 </div>
 
@@ -71,9 +73,9 @@ Xiaolong Xu\*, <b>Hao Tian</b>\*, Xuyun Zhang, Lianyong Qi, Qiang He, Wanchun Do
 </div>
 
 <!-- ICPADS -->
-<div class="paper-justified-text"><div class="pubtitle">IEEE ICPADS 2023</div> &nbsp;Xutong Jiang, Guoming Zhang, <b>Hao Tian</b>, Haolong Xiang, Xuyun Zhang, Wanchun Dou. <span style="color:#2c4a88; text-decoration: underline;">A Blockchain-enabled Secure Access Management Method in Edge Computing</span>. <i>2023 IEEE 29th International Conference on Parallel and Distributed Systems (ICPADS)</i>, 2023. <a href="https://ieeexplore.ieee.org/abstract/document/10476078">[PDF]</a>
-</div>
+<!-- <div class="paper-justified-text"><div class="pubtitle">IEEE ICPADS 2023</div> &nbsp;Xutong Jiang, Guoming Zhang, <b>Hao Tian</b>, Haolong Xiang, Xuyun Zhang, Wanchun Dou. <span style="color:#2c4a88; text-decoration: underline;">A Blockchain-enabled Secure Access Management Method in Edge Computing</span>. <i>2023 IEEE 29th International Conference on Parallel and Distributed Systems (ICPADS)</i>, 2023. <a href="https://ieeexplore.ieee.org/abstract/document/10476078">[PDF]</a>
+</div> -->
 
 <!-- TIV -->
-<div class="paper-justified-text"><div class="pubtitle">IEEE TIV 2023</div> &nbsp;Ke Meng, Zhongjian Liu, Xiaolong Xu, Xiaoyu Xia, <b>Hao Tian</b>, Lianyong Qi, Xiaokang Zhou. <span style="color:#2c4a88; text-decoration: underline;">Heterogeneous Edge Service Deployment for Cyber Physical Social Intelligence in Internet of Vehicles</span>. <i>IEEE Transactions on Intelligent Vehicles (TIV)</i>, 2023. <a href="https://ieeexplore.ieee.org/abstract/document/10286850">[PDF]</a>
-</div>
+<!-- <div class="paper-justified-text"><div class="pubtitle">IEEE TIV 2023</div> &nbsp;Ke Meng, Zhongjian Liu, Xiaolong Xu, Xiaoyu Xia, <b>Hao Tian</b>, Lianyong Qi, Xiaokang Zhou. <span style="color:#2c4a88; text-decoration: underline;">Heterogeneous Edge Service Deployment for Cyber Physical Social Intelligence in Internet of Vehicles</span>. <i>IEEE Transactions on Intelligent Vehicles (TIV)</i>, 2023. <a href="https://ieeexplore.ieee.org/abstract/document/10286850">[PDF]</a>
+</div> -->
