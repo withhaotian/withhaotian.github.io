@@ -1,5 +1,5 @@
 # 📝 Selected Publications
-> *A full list of publications is available at [Google Scholar](https://scholar.google.com/citations?user=PYFMSbYAAAAJ)*
+*A full list of publications is available at [Google Scholar](https://scholar.google.com/citations?user=PYFMSbYAAAAJ)*
 <!-- ADMA -->
 <div class='paper-box'><div class='paper-box-image'><div align="center"><div class="badge">ADMA 2024</div><img src='images/adma24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
