@@ -6,7 +6,7 @@
 
 <b>Hao Tian</b>, Haolong Xiang, Tingtong Zhu, Siyuan Wu, Cheng Chen, Zheng Li, Mingxu Jiang, Wanchun Dou <br>
 <span style="color:#2c4a88; text-decoration: underline;">An Inference Acceleration Approach for Boosting DNN Cold Start in Cloud-Edge Computing</span><br>
-*The 20th International Conference on Advanced Data Mining and Applications (ADMA)*, 2024 <br>
+*The 20th International Conference on Advanced Data Mining and Applications (ADMA)*, 2024 <span style="color:#7a0008;">(Best Student Paper Runner-Up)</span> <br>
 [[Slides]](files/ADMA24-Slides.pdf)
 </div>
 </div>
@@ -39,7 +39,7 @@
 
 Xiaolong Xu\*, <b>Hao Tian</b>\*, Xuyun Zhang, Lianyong Qi, Qiang He, Wanchun Dou <i>(\*Co-Primary)</i> <br>
 <span style="color:#2c4a88; text-decoration: underline;">DisCOV: Distributed COVID-19 Detection on X-Ray Images with Edge-Cloud Collaboration</span><br>
-*IEEE Transactions on Services Computing (TSC)*, 2022 <br>
+*IEEE Transactions on Services Computing (TSC)*, 2022 <span style="color:#7a0008;">(ESI Highly Cited Paper)</span> <br>
 [[PDF]](https://ieeexplore.ieee.org/abstract/document/9681206) | [[Slides]](files/IEEE SERVICE 2022-slides.pdf)
 </div>
 </div>
