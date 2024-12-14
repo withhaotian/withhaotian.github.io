@@ -7,7 +7,7 @@
 <b>Hao Tian</b>, Haolong Xiang, Tingtong Zhu, Siyuan Wu, Cheng Chen, Zheng Li, Mingxu Jiang, Wanchun Dou <br>
 <span style="color:#2c4a88; text-decoration: underline;">An Inference Acceleration Approach for Boosting DNN Cold Start in Cloud-Edge Computing</span><br>
 *The 20th International Conference on Advanced Data Mining and Applications (ADMA)*, 2024 <span style="color:#7a0008;">(Best Student Paper Runner-Up)</span> <br>
-[[Slides]](files/ADMA24-Slides.pdf)
+[[PDF]](https://doi.org/10.1007/978-981-96-0811-9_20) |[[Slides]](files/ADMA24-Slides.pdf)
 </div>
 </div>
 
@@ -68,8 +68,8 @@ Xiaolong Xu\*, <b>Hao Tian</b>\*, Xuyun Zhang, Lianyong Qi, Qiang He, Wanchun Do
 </div>
 
 <!-- TAAS -->
-<div class="paper-justified-text"><div class="pubtitle">ACM TAAS 2024</div> &nbsp;Bowen Liu, <b>Hao Tian</b>, Zhijie Shen, Yueyue Xu, Wanchun Dou. <span style="color:#2c4a88; text-decoration: underline;">A Consortium Blockchain-Based Edge Task Offloading Method for Connected Autonomous Vehicles</span>. <i>ACM Transactions on Autonomous and Adaptive Systems (TAAS)</i>, 2024. <a href="https://doi.org/10.1145/3696004">[PDF]</a>
-</div>
+<!-- <div class="paper-justified-text"><div class="pubtitle">ACM TAAS 2024</div> &nbsp;Bowen Liu, <b>Hao Tian</b>, Zhijie Shen, Yueyue Xu, Wanchun Dou. <span style="color:#2c4a88; text-decoration: underline;">A Consortium Blockchain-Based Edge Task Offloading Method for Connected Autonomous Vehicles</span>. <i>ACM Transactions on Autonomous and Adaptive Systems (TAAS)</i>, 2024. <a href="https://doi.org/10.1145/3696004">[PDF]</a>
+</div> -->
 
 <!-- ICPADS -->
 <!-- <div class="paper-justified-text"><div class="pubtitle">IEEE ICPADS 2023</div> &nbsp;Xutong Jiang, Guoming Zhang, <b>Hao Tian</b>, Haolong Xiang, Xuyun Zhang, Wanchun Dou. <span style="color:#2c4a88; text-decoration: underline;">A Blockchain-enabled Secure Access Management Method in Edge Computing</span>. <i>2023 IEEE 29th International Conference on Parallel and Distributed Systems (ICPADS)</i>, 2023. <a href="https://ieeexplore.ieee.org/abstract/document/10476078">[PDF]</a>
