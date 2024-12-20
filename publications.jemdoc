@@ -3,11 +3,28 @@
 
 /A full list of publications is available at [https://scholar.google.com/citations?user=PYFMSbYAAAAJ Google Scholar]./ ~(\* Co-Primary)
 
-. *Hao Tian*, Haolong Xiang, Tingtong Zhu, Siyuan Wu, Cheng Chen, Zheng Li, Mingxu Jiang, Wanchun Dou. 
-[https://doi.org/10.1007/978-981-96-0811-9_20 An Inference Acceleration Approach for Boosting DNN Cold Start in Cloud-Edge Computing]. /The 20th International Conference on Advanced Data Mining and Applications (ADMA)/, 2024. (*Best Student Paper Runner-Up*) [files/ADMA24-Slides.pdf \[Slides\]]
-. *Hao Tian*, Cheng Chen, Fei Dai, Wanchun Dou. [https://doi.org/10.1109/ICWS62655.2024.00120 SFSM: A Serverless Function Scheduling Method for FaaS Applications over Edge Computing]. /2024 IEEE International Conference on Web Services (ICWS)/, 2024. [files/ICWS-Slides-SFSM.pdf \[Slides\]]
-. *Hao Tian*, Xiaolong Xu, Hongyue Wu, Qingzhan Zhao, Jianguo Dai, Maqbool Khan. [https://doi.org/10.1145/3685930 Cost-Efficient Deep Neural Network Placement in Edge Intelligence-Enabled Internet of Things]. /ACM Transactions on Sensor Networks (TOSN)/, 2024.
-. Xiaolong Xu\*, *Hao Tian*\*, Xuyun Zhang, Lianyong Qi, Qiang He, Wanchun Dou. [https://ieeexplore.ieee.org/abstract/document/9681206 Distributed COVID-19 Detection on X-Ray Images with Edge-Cloud Collaboration]. /IEEE Transactions on Services Computing (TSC)/, 2022. (CCF-A, ESI Highly Cited Paper) [files/tsc-slides.pdf \[Slides\]]
-. *Hao Tian*, Xiaolong Xu, Lianyong Qi, Xuyun Zhang, Wanchun Dou, Shui Yu, Qiang Ni. [https://ieeexplore.ieee.org/abstract/document/9580706 Computation Offloading and Caching for Self-Driving with Deep Reinforcement Learning]. /IEEE Transactions on Vehicular Technology (TVT)/, 2021. [https://github.com/withhaotian/DDPG-Agent-for-Edge.git \[Code\]]
-. *Hao Tian*, Xiaolong Xu, Tingyu Lin, Yong Cheng, Cheng Qian, Lei Ren, Muhammad Bilal. [https://link.springer.com/article/10.1007/s11280-021-00939-7 Distributed Cooperative Microservice Caching for Internet of Things in Edge Computing by Deep Reinforcement Learning]. /World Wide Web Journal (WWWJ)/, 2022.
+. *Hao Tian*, Haolong Xiang, Tingtong Zhu, Siyuan Wu, Cheng Chen, Zheng Li, Mingxu Jiang, Wanchun Dou. \n
+[https://doi.org/10.1007/978-981-96-0811-9_20 An Inference Acceleration Approach for Boosting DNN Cold Start in Cloud-Edge Computing]. \n
+/The 20th International Conference on Advanced Data Mining and Applications (ADMA)/, 2024. \n
+(*Best Student Paper Runner-Up*) 
+#[files/ADMA24-Slides.pdf \[Slides\]]
+. *Hao Tian*, Cheng Chen, Fei Dai, Wanchun Dou. \n
+[https://doi.org/10.1109/ICWS62655.2024.00120 SFSM: A Serverless Function Scheduling Method for FaaS Applications over Edge Computing]. \n
+/2024 IEEE International Conference on Web Services (ICWS)/, 2024. 
+#\n [files/ICWS-Slides-SFSM.pdf \[Slides\]]
+. *Hao Tian*, Xiaolong Xu, Hongyue Wu, Qingzhan Zhao, Jianguo Dai, Maqbool Khan. \n
+[https://doi.org/10.1145/3685930 Cost-Efficient Deep Neural Network Placement in Edge Intelligence-Enabled Internet of Things]. \n
+/ACM Transactions on Sensor Networks (TOSN)/, 2024.
+. Xiaolong Xu\*, *Hao Tian*\*, Xuyun Zhang, Lianyong Qi, Qiang He, Wanchun Dou. \n
+[https://ieeexplore.ieee.org/abstract/document/9681206 Distributed COVID-19 Detection on X-Ray Images with Edge-Cloud Collaboration]. \n
+/IEEE Transactions on Services Computing (TSC)/, 2022. \n
+(*CCF-A*, *ESI Highly Cited Paper*) 
+#[files/tsc-slides.pdf \[Slides\]]
+. *Hao Tian*, Xiaolong Xu, Lianyong Qi, Xuyun Zhang, Wanchun Dou, Shui Yu, Qiang Ni. \n
+[https://ieeexplore.ieee.org/abstract/document/9580706 Computation Offloading and Caching for Self-Driving with Deep Reinforcement Learning]. \n
+/IEEE Transactions on Vehicular Technology (TVT)/, 2021. \n
+[https://github.com/withhaotian/DDPG-Agent-for-Edge.git \[Code\]]
+. *Hao Tian*, Xiaolong Xu, Tingyu Lin, Yong Cheng, Cheng Qian, Lei Ren, Muhammad Bilal. \n
+[https://link.springer.com/article/10.1007/s11280-021-00939-7 Distributed Cooperative Microservice Caching for Internet of Things in Edge Computing by Deep Reinforcement Learning]. \n
+/World Wide Web Journal (WWWJ)/, 2022.
 
