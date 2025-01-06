@@ -1,3 +1,6 @@
 scripts/*
 *.jemdoc
 *.conf
+awards.html
+materials.html
+publications.html
